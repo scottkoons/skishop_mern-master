@@ -1,4 +1,4 @@
-#SkiShop e-commerce demo store
+# SkiShop e-commerce demo store
 
 This is a capstone project completed for the Springboard, Software Engineering course. The purpose of this demo is to create a fully functioning shopping cart and e-commerce platform demonstrating several technology skills:
 
